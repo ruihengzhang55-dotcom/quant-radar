@@ -179,12 +179,6 @@ LANG = {
 For research only. Not financial advice."""
     }
 }
-### 💳 Subscription
-7-day free trial on signup. Subscribe at $5/month for full access.
-### ⚠️ Disclaimer
-For research only. Not financial advice."""
-    }
-}
 
 st.markdown("""
 <style>
