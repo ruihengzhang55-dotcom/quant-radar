@@ -179,7 +179,6 @@ LANG = {
 For research only. Not financial advice."""
     }
 }
-
 st.markdown("""
 <style>
     .stApp { background-color: #0d1117; color: #e6edf3; }
